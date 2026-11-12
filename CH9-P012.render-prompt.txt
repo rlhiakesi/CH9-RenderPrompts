@@ -1,0 +1,85 @@
+Render CH9-P012 at 1024×1536 pixels as exactly three coordinated files: IAKESI-CH9-012-art.png, IAKESI-CH9-012-lettering.png, and IAKESI-CH9-012-text.txt.
+ARTWORK FILE — IAKESI-CH9-012-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH9-012-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+TEXT FILE — IAKESI-CH9-012-text.txt: plain UTF-8 text containing the authoritative reader-visible story text for this page in simple script format. Preserve exact wording, punctuation, speaker/type, and connected-chain relationships. Do not include production directions.
+Use 6 panels arranged vertically in reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Global production rules — BINDING:
+- Lettering Case: ALL_CAPS
+- Anonymous Zoran Women Hair: platinum blonde; shade variation and age-related variation permitted
+- Zorna Ch9 Costume: formal Goddess outfit throughout Chapter 9
+- Midori Age Reader Visible: Do not state Midori's numerical age in Chapter 9 reader-facing text.
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Ashiba-Character-Sheet.png, Assets/Zorna-character-sheet.png, Assets/Zorna-expression-sheet.png, Assets/Zorna-canonical-character-specification(1).txt.
+Canonical character identity:
+- Ashiba: BINDING VISUAL IDENTITY: match the canonical character reference images exactly for face, proportions, hair geometry, ears, body type, colors, and the costume state specified here. Use these images for DESIGN/IDENTITY, not for rendering style; translate the design into the binding page rendering style: Assets/Ashiba-Character-Sheet.png Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Beti: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Caption beneath the speaker: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Child: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Corrine: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Delti: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- High Priestess: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Isolde: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Katarina: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Midori: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Narration box: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Outgoing Watch Captain: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Priestess: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Senior Priestess: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Seraphine: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Zorna: BINDING VISUAL IDENTITY: match the canonical character reference images exactly for face, proportions, hair geometry, ears, body type, colors, and the costume state specified here. Use these images for DESIGN/IDENTITY, not for rendering style; translate the design into the binding page rendering style: Assets/Zorna-character-sheet.png Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+Do not draw trim, crop, registration, bleed, or production marks.
+
+Panel 1:
+- Panel direction (not printed text): Page direction: Setting: battlefield vision ending. Blocking: fallen mage/spellbook foreground, Ashiba and Zorna observing. Camera: object detail → medium Ashiba → tight Zorna. Reaction close-up: Zorna's “No.” is a close-up with neutral certainty, not cruelty. Inset: optional spellbook-in-mud detail in Panel 2; no dialogue inside inset. Layout execution: Layout priority: isolate Zorna's “No.” visually. Avoid placing another speech balloon immediately beside it. Panel 6 should read as the answer to the entire page.
+- Camera: Follow page directorial guidance and the panel-specific scripted beat; prioritize required reaction close-ups, establishing shots, and protected negative space.
+- Scene: Panel 1
+- Blocking: Use only characters required by the beat. Preserve page-level blocking, stable screen direction, eyelines, entrances/exits, and anonymous-character identity labels across consecutive panels.
+- Action: Render the scripted beat exactly as written in scripted_beat; do not add a new story beat.
+- Characters: Ashiba; Beti; Caption beneath the speaker; Child; Corrine; Delti; High Priestess; Isolde; Katarina; Midori; Narration box; Outgoing Watch Captain; Priestess; Senior Priestess; Seraphine; Zorna.
+
+Panel 2:
+- Panel direction (not printed text): Page direction: Setting: battlefield vision ending. Blocking: fallen mage/spellbook foreground, Ashiba and Zorna observing. Camera: object detail → medium Ashiba → tight Zorna. Reaction close-up: Zorna's “No.” is a close-up with neutral certainty, not cruelty. Inset: optional spellbook-in-mud detail in Panel 2; no dialogue inside inset. Layout execution: Layout priority: isolate Zorna's “No.” visually. Avoid placing another speech balloon immediately beside it. Panel 6 should read as the answer to the entire page.
+- Camera: Follow page directorial guidance and the panel-specific scripted beat; prioritize required reaction close-ups, establishing shots, and protected negative space.
+- Scene: Panel 2
+- Blocking: Use only characters required by the beat. Preserve page-level blocking, stable screen direction, eyelines, entrances/exits, and anonymous-character identity labels across consecutive panels.
+- Action: Render the scripted beat exactly as written in scripted_beat; do not add a new story beat.
+- Characters: Ashiba; Beti; Caption beneath the speaker; Child; Corrine; Delti; High Priestess; Isolde; Katarina; Midori; Narration box; Outgoing Watch Captain; Priestess; Senior Priestess; Seraphine; Zorna.
+
+Panel 3:
+- Panel direction (not printed text): Page direction: Setting: battlefield vision ending. Blocking: fallen mage/spellbook foreground, Ashiba and Zorna observing. Camera: object detail → medium Ashiba → tight Zorna. Reaction close-up: Zorna's “No.” is a close-up with neutral certainty, not cruelty. Inset: optional spellbook-in-mud detail in Panel 2; no dialogue inside inset. Layout execution: Layout priority: isolate Zorna's “No.” visually. Avoid placing another speech balloon immediately beside it. Panel 6 should read as the answer to the entire page.
+- Camera: Follow page directorial guidance and the panel-specific scripted beat; prioritize required reaction close-ups, establishing shots, and protected negative space.
+- Scene: Panel 3
+- Blocking: Use only characters required by the beat. Preserve page-level blocking, stable screen direction, eyelines, entrances/exits, and anonymous-character identity labels across consecutive panels.
+- Action: Render the scripted beat exactly as written in scripted_beat; do not add a new story beat.
+- Characters: Ashiba; Beti; Caption beneath the speaker; Child; Corrine; Delti; High Priestess; Isolde; Katarina; Midori; Narration box; Outgoing Watch Captain; Priestess; Senior Priestess; Seraphine; Zorna.
+- CH9-P012-S03-D01: ashiba, speech balloon (one speaker tail): “Can this future be prevented?”
+
+Panel 4:
+- Panel direction (not printed text): Page direction: Setting: battlefield vision ending. Blocking: fallen mage/spellbook foreground, Ashiba and Zorna observing. Camera: object detail → medium Ashiba → tight Zorna. Reaction close-up: Zorna's “No.” is a close-up with neutral certainty, not cruelty. Inset: optional spellbook-in-mud detail in Panel 2; no dialogue inside inset. Layout execution: Layout priority: isolate Zorna's “No.” visually. Avoid placing another speech balloon immediately beside it. Panel 6 should read as the answer to the entire page.
+- Camera: Follow page directorial guidance and the panel-specific scripted beat; prioritize required reaction close-ups, establishing shots, and protected negative space.
+- Scene: Panel 4
+- Blocking: Use only characters required by the beat. Preserve page-level blocking, stable screen direction, eyelines, entrances/exits, and anonymous-character identity labels across consecutive panels.
+- Action: Render the scripted beat exactly as written in scripted_beat; do not add a new story beat.
+- Characters: Ashiba; Beti; Caption beneath the speaker; Child; Corrine; Delti; High Priestess; Isolde; Katarina; Midori; Narration box; Outgoing Watch Captain; Priestess; Senior Priestess; Seraphine; Zorna.
+- CH9-P012-S04-D01: zorna, speech balloon (one speaker tail): “No.”
+
+Panel 5:
+- Panel direction (not printed text): Page direction: Setting: battlefield vision ending. Blocking: fallen mage/spellbook foreground, Ashiba and Zorna observing. Camera: object detail → medium Ashiba → tight Zorna. Reaction close-up: Zorna's “No.” is a close-up with neutral certainty, not cruelty. Inset: optional spellbook-in-mud detail in Panel 2; no dialogue inside inset. Layout execution: Layout priority: isolate Zorna's “No.” visually. Avoid placing another speech balloon immediately beside it. Panel 6 should read as the answer to the entire page.
+- Camera: Follow page directorial guidance and the panel-specific scripted beat; prioritize required reaction close-ups, establishing shots, and protected negative space.
+- Scene: Panel 5
+- Blocking: Use only characters required by the beat. Preserve page-level blocking, stable screen direction, eyelines, entrances/exits, and anonymous-character identity labels across consecutive panels.
+- Action: Render the scripted beat exactly as written in scripted_beat; do not add a new story beat.
+- Characters: Ashiba; Beti; Caption beneath the speaker; Child; Corrine; Delti; High Priestess; Isolde; Katarina; Midori; Narration box; Outgoing Watch Captain; Priestess; Senior Priestess; Seraphine; Zorna.
+
+Panel 6:
+- Panel direction (not printed text): Page direction: Setting: battlefield vision ending. Blocking: fallen mage/spellbook foreground, Ashiba and Zorna observing. Camera: object detail → medium Ashiba → tight Zorna. Reaction close-up: Zorna's “No.” is a close-up with neutral certainty, not cruelty. Inset: optional spellbook-in-mud detail in Panel 2; no dialogue inside inset. Layout execution: Layout priority: isolate Zorna's “No.” visually. Avoid placing another speech balloon immediately beside it. Panel 6 should read as the answer to the entire page.
+- Camera: Follow page directorial guidance and the panel-specific scripted beat; prioritize required reaction close-ups, establishing shots, and protected negative space.
+- Scene: Panel 6
+- Blocking: Use only characters required by the beat. Preserve page-level blocking, stable screen direction, eyelines, entrances/exits, and anonymous-character identity labels across consecutive panels.
+- Action: Render the scripted beat exactly as written in scripted_beat; do not add a new story beat.
+- Characters: Ashiba; Beti; Caption beneath the speaker; Child; Corrine; Delti; High Priestess; Isolde; Katarina; Midori; Narration box; Outgoing Watch Captain; Priestess; Senior Priestess; Seraphine; Zorna.
+- CH9-P012-S06-D01: zorna, speech balloon (one speaker tail): “But it can be prepared for.”
+
+Story lettering rule: use exactly the 3 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+CHAPTER 2 FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are generated separately.
+DELIVERY CHECK: return exactly IAKESI-CH9-012-art.png and IAKESI-CH9-012-lettering.png; both must be 1024×1536 pixels, perfectly registered, and unflattened.
